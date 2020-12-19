@@ -1,4 +1,4 @@
-### DATA PRIVACY AND ONLINE MARKETING
+## IS117 - Final Project 02
 
 1. Created by:
 * Hannah Benjamin
